@@ -16,9 +16,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed issue #8 - Focus commands with POST instead of GET
 - Fixed orientation on Focus buttons
 
-# [0.9.4]
+# [0.9.4] - 26.07.2023
 - Fixed issue #9 - Use https when it's enabled in Management Client hardware settings
 - Fixed issue #10 - Exception in the Privacy Guard menu
 - Fixed issue #3 - Exception in the Change Scene menu
 - Added Enable menu item in the Privacy Guard menu
 - Added install id 286 in addition to existing install id 273 when looking for Active Guard app
+- Chaged UI for Management Client command configure window.
