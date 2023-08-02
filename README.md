@@ -21,5 +21,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed issue #10 - Exception in the Privacy Guard menu
 - Fixed issue #3 - Exception in the Change Scene menu
 - Added Enable menu item in the Privacy Guard menu
-- Added install id 286 in addition to existing install id 273 when looking for Active Guard app
+- Added install id 286 in addition to existing install id 273 when looking for Privacy Guard app
 - Chaged UI for Management Client command configure window.
+
+# [0.9.5] - 02.08.2023
+- Fixed Privacy Guard appId in the Plugins
+- Set requested ExecutionLevel to requireAdministrator on Maximizer Service Tray app
