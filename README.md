@@ -29,3 +29,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Set requested ExecutionLevel to requireAdministrator on Maximizer Service Tray app
 
 # [0.9.6] - 25.08.2023
+- Added "Configure alarm sending" as a command accesible from the Management Client
+- Changed how the scene schedules and privacy guard schedules are stored in the plugin (Issues #10 and #3)
+- Changed the sending of commands to Smart Client -> Maximizer Service -> Camera (this should not have any visible effect)
