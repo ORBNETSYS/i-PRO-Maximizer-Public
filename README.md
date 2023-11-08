@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-#[1.0.1] - 08.11.2023
+# [1.0.1] - 08.11.2023
 - Check for additional MAC prefixes ("008045","080023","0080F0","BCC342","4C364E","D42DC5") when identifying i-PRO cameras (previously the check was for "D42DC5" only)
 
 # [0.9.6] - 25.08.2023
