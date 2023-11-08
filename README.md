@@ -7,6 +7,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 # [1.0.1] - 08.11.2023
 - Check for additional MAC prefixes ("008045","080023","0080F0","BCC342","4C364E","D42DC5") when identifying i-PRO cameras (previously the check was for "D42DC5" only)
 
+# [1.0.0] - 19.09.2023
+- Added "Update alarm sending on all cameras" button and functionality in the Management Client plugin
+- Added "Custom Event Mapping" button and functionality in the Management Client plugin and in the service
+- Camera alarm fields changes (state=New, event Type = i-PRO Maximizer)
+- Service tray app design changes
+- Fixed the request path, display names of several commands
+- Fixed displaying a camera in multiple groups in the Management Client plugin
+- Fixed commands buttons states in the Management Client plugin
+- Hidden plugin button when the camera is not i-PRO in the Smart Client plugin
+- Service starts with DelayedAutoStart 
+- Plugin names changes
+
 # [0.9.6] - 25.08.2023
 - Added "Configure alarm sending" as a command accesible from the Management Client
 - Changed how the scene schedules and privacy guard schedules are stored in the plugin (Issues #10 and #3)
