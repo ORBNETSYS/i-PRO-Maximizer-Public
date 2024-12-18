@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 # [1.1.1] - 18.12.2024
-- Incremented version number to 1.1.1
+- Fixed incorrect version number in Maximizer Service DLL.
 
 # [1.1.0] - 01.08.2024
 - Configuration auto refresh
