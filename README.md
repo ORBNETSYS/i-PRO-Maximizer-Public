@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+# [1.1.2] - 22.05.2024
+- Added Support for camera firmware v2.85/v3.45.
+
 # [1.1.1] - 18.12.2024
 - Fixed incorrect version number in Maximizer Service DLL.
 
