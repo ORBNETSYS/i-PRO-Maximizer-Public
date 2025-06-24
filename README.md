@@ -1,8 +1,14 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
-
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+# [1.2.0] - 17.06.2025
+- Added 3D dewarp for 360-degree fisheye cameras.
+- Added Roles cofiguration for i-PRO extended actions.
+- Added HTTP POST method with Http body field for user-defined CGI.
+- Added export and import configuration of user-defined CGI.
+- Improve alarm integration for multi-directional cameras.
 
 # [1.1.2] - 22.05.2024
 - Added Support for camera firmware v2.85/v3.45.
