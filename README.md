@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+# [1.2.1] - 28.08.2025
+- Fixed: Fisheye camera model filtering made by model name instead of hardware name.
+  
 # [1.2.0] - 17.06.2025
 - Added 3D dewarp for 360-degree fisheye cameras.
 - Added Roles cofiguration for i-PRO extended actions.
