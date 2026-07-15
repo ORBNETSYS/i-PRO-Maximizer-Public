@@ -1,8 +1,11 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-
+# [1.3.0] - 15.07.2026
+- Added WV-X45701*, WV-X45501*, WV-X41701* and WV-X41501* to the 3D dewarp supported models.
+- Added "Auto tracking starts (no area ID)" and "Free text detection" to i-PRO Maximizer Events list.
+- Added "Enable/Disable AI-VMD" and "Enable/Disable HTTP alarm" to i-PRO Extended Actions list.
+- Changed Management Client UI
+  
 # [1.2.1] - 28.08.2025
 - Fixed: Fisheye camera model filtering made by model name instead of hardware name.
   
